@@ -1,7 +1,7 @@
 {
   "name": "Grocery List App",
   "short_name": "Grocery List",
-  "start_url": "index_v2.21.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#f5f5f5",
   "theme_color": "#007bff",
