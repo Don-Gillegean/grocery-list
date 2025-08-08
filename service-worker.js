@@ -1,6 +1,6 @@
-const CACHE_NAME = 'grocery-list-app-v2.21';
+const CACHE_NAME = 'grocery-list-app';
 const urlsToCache = [
-  'index_v2.21.html',
+  'index.html',
   'icons/icon-192.png',
   'icons/icon-512.png'
 ];
